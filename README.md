@@ -1,19 +1,35 @@
-# Coffee Shop
+# ☕ Coffee Shop
 
-A Python command-line coffee shop application built while learning Python fundamentals.
+A command-line coffee shop application built in Python.
 
 ## Features
 
-- User input
-- While loops
-- If / elif / else
+- Take customer orders
+- Support multiple coffee sizes
+- Calculate pricing based on order size
+- Print itemized receipts
+- Process multiple customer orders in a single session
+- Use reusable functions to organize the application
+
+## Skills Demonstrated
+
+- Python
+- Variables
+- User Input
+- Conditional Logic (`if`, `elif`, `else`)
+- While Loops
 - Functions
-- Receipts
-- Multiple customer orders
+- Function Parameters
 
 ## Future Improvements
 
-- More drink options
-- Add-ons and extras
-- Daily sales tracking
+- Additional drink options
+- Custom add-ons (oat milk, extra espresso, etc.)
+- Order quantities
+- Daily sales reporting
 - Save orders to a file
+- Object-Oriented Programming (OOP)
+
+## Author
+
+Brian Gerwig
